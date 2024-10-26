@@ -1,4 +1,5 @@
-# Coin-Toss-Dice-Roll-
+# Coin-Dice-game-
+
 🎲 Coin & Dice Game with Streamlit
 A simple Coin Toss and Dice Roll game built with Streamlit to have fun with random coin flips and dice rolls. This project demonstrates how to use Streamlit for interactive applications and introduces concepts like session state management and dynamic updates with GIFs and images.
 
@@ -11,7 +12,7 @@ Centered UI: Proper alignment of GIFs and images in the middle of the screen.
 
 📋 Installation
 1.Clone the repository:
-git clone https://github.com/your-username/coin-dice-game.git
+git clone https://github.com/sasidhar1809/coin-dice-game.git
 cd coin-dice-game
 
 2.Install the required dependencies: Make sure you have Python installed, then run:
