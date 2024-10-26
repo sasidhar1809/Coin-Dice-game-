@@ -12,7 +12,7 @@ Centered UI: Proper alignment of GIFs and images in the middle of the screen.
 
 📋 Installation
 1.Clone the repository:
-git clone https://github.com/sasidhar1809/coin-dice-game.git
+git clone https://github.com/sasidhar1809/coin-dice-game-.git
 cd coin-dice-game
 
 2.Install the required dependencies: Make sure you have Python installed, then run:
