@@ -19,7 +19,7 @@ cd coin-dice-game
 pip install streamlit
 
 3.Run the application:
-streamlit run app.py
+streamlit run main.py
 
 4.Open the app:
 After running, open your browser and go to:
