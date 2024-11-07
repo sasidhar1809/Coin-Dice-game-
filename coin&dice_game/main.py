@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st ## TO Run the File Use "stremlit run main.py" in the terminal after clicking the Run button. 
 import random
 import time
 
